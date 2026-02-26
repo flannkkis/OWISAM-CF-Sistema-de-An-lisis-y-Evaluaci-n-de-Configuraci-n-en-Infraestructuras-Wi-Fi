@@ -17,6 +17,7 @@ Generar un reporte automático con recomendaciones de mejora.
 
 - Funcionamiento General
 El sistema se divide en tres fases principales:
+
 1️. Escaneo
 Se recopila información básica de redes Wi-Fi cercanas:
 SSID
