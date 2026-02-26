@@ -20,18 +20,28 @@ El sistema se divide en tres fases principales:
 
  1️. Escaneo
 Se recopila información básica de redes Wi-Fi cercanas:
-SSID
-BSSID
-Canal
-Tipo de cifrado
-Nivel de señal
+
+· SSID
+
+· BSSID
+
+· Canal
+
+· Tipo de cifrado
+
+· Nivel de señal
 
 2. Análisis
+   
 Se aplican reglas de evaluación como:
-Red abierta → Riesgo alto
-WEP o WPA → Riesgo medio/alto
-SSID por defecto → Advertencia
-Canal saturado (ej. canal 6 en 2.4 GHz) → Advertencia
+
+· Red abierta → Riesgo alto
+
+· WEP o WPA → Riesgo medio/alto
+
+· SSID por defecto → Advertencia
+
+· Canal saturado (ej. canal 6 en 2.4 GHz) → Advertencia
 
 4. Generación de Reporte
 El sistema genera:
@@ -58,16 +68,26 @@ OWISAM-CF
  └── requirements.txt
 
 - Tecnologías Utilizadas
-Python 3.15
-Librerías de captura y análisis de redes inalámbricas
-Generación de reportes en formato texto o JSON
-Criterios de Evaluación de Riesgo
-Configuración Detectada	Nivel de Riesgo
-Red abierta	Alto
-WEP	Alto
-WPA	Medio
-SSID por defecto	Advertencia
-Canal saturado	Advertencia
+  
+· Python 3.15
+
+· Librerías de captura y análisis de redes inalámbricas
+
+· Generación de reportes en formato texto o JSON
+
+· Criterios de Evaluación de Riesgo
+
+· Configuración Detectada	Nivel de Riesgo
+
+· Red abierta	Alto
+
+· WEP	Alto
+
+· WPA	Medio
+
+· SSID por defecto	Advertencia
+
+· Canal saturado	Advertencia
 
 - Instalación
 Rellenar
