@@ -1,13 +1,16 @@
 OWISAM-CF
+
 Sistema de Análisis y Evaluación de Configuración en Infraestructuras Wi-Fi
 
 
 - Descripción
+  
 OWISAM-CF es una herramienta desarrollada en Python para analizar configuraciones de redes Wi-Fi y detectar posibles debilidades de seguridad.
 El sistema escanea redes inalámbricas cercanas, recopila parámetros técnicos relevantes y aplica un conjunto de reglas basadas en buenas prácticas de seguridad para identificar configuraciones potencialmente inseguras.
 El objetivo no es realizar ataques, sino evaluar configuraciones y generar un informe de riesgos.
 
 - Objetivos del Proyecto
+  
 Detectar redes Wi-Fi abiertas (sin cifrado).
 Identificar el uso de cifrados obsoletos como WEP o WPA.
 Detectar SSID por defecto basados en patrones comunes.
