@@ -93,15 +93,19 @@ OWISAM-CF
 · Canal saturado	Advertencia
 
 - Instalación
+  
 Rellenar
 
 - Uso
+  
 Rellenar
 
 - Buenas Prácticas Consideradas
+  
 Rellenar
 
 - Advertencia Legal
+  
 Esta herramienta está diseñada exclusivamente con fines educativos y de análisis en entornos controlados o redes propias. No debe utilizarse para auditar redes sin autorización.
 
 - Autor
