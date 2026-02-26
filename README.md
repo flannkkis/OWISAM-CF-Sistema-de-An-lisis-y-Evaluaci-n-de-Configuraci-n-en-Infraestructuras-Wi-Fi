@@ -46,7 +46,7 @@ Se aplican reglas de evaluación como:
 
 · Canal saturado (ej. canal 6 en 2.4 GHz) → Advertencia
 
-4. Generación de Reporte
+3. Generación de Reporte
 El sistema genera:
 Resumen general
 Lista de redes detectadas
