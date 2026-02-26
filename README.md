@@ -25,13 +25,15 @@ BSSID
 Canal
 Tipo de cifrado
 Nivel de señal
+
 2. Análisis
 Se aplican reglas de evaluación como:
 Red abierta → Riesgo alto
 WEP o WPA → Riesgo medio/alto
 SSID por defecto → Advertencia
 Canal saturado (ej. canal 6 en 2.4 GHz) → Advertencia
-3. Generación de Reporte
+
+4. Generación de Reporte
 El sistema genera:
 Resumen general
 Lista de redes detectadas
