@@ -109,4 +109,5 @@ Rellenar
 Esta herramienta está diseñada exclusivamente con fines educativos y de análisis en entornos controlados o redes propias. No debe utilizarse para auditar redes sin autorización.
 
 - Autor
+  
 Proyecto desarrollado como TFM del Curso de Especialización en Ciberseguridad en los Entornos de las Tecnologías de la Información realizado por Alejandro Flanagan
